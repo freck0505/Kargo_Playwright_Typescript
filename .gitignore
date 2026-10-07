@@ -1,0 +1,17 @@
+.opencode/
+node_modules/
+dist/
+opencode.json
+allure-report
+allure-results
+logs
+playwright-report
+test-results
+.env
+*.log
+opencode.json
+.playwright-mcp
+.dockerignore
+.gitlab-ci.yml
+docker-compose.yml
+Dockerfile
